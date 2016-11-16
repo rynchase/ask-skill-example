@@ -1,0 +1,22 @@
+WhatsUpWithPersonIntent with {firstName}
+WhatsUpWithPersonTwoNameIntent with {firstName} {lastName}
+
+WhatsUpWithPersonIntent {firstName}
+WhatsUpWithPersonTwoNameIntent {firstName} {lastName}
+
+WhatsUpWithPersonIntent about {firstName}
+WhatsUpWithPersonTwoNameIntent about {firstName} {lastName}
+
+WhatsUpWithPersonIntent about the latest from {firstName}
+WhatsUpWithPersonTwoNameIntent about the latest from {firstName} {lastName}
+
+WhatsUpWithPersonIntent whats up with {firstName}
+WhatsUpWithPersonTwoNameIntent whats up with {firstName} {lastName}
+
+IncompleteIntent about
+IncompleteIntent with
+IncompleteIntent whats up with
+
+CancelIntent cancel
+CancelIntent exit
+CancelIntent stop

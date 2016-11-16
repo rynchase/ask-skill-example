@@ -1,0 +1,21 @@
+TYPE = AMAZON.US_FIRST_NAME
+
+Kanye
+yeezy
+yeezus
+Timberlake
+West
+J.T.
+
+
+TYPE = LAST_NAME
+
+Swift
+West
+Kardashian
+Timberlake
+Obama
+Clinton
+Trump
+Perry
+Parry
